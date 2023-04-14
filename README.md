@@ -1,2 +1,2 @@
 # CodeClause_to-do-list
-This repository contains a web application for managing a todo list. The application is built using HTML, CSS, and JavaScript.
+This GitHub repository features a web application for managing a todo list, built with HTML, CSS, and JavaScript. Its user-friendly interface allows users to add, edit, and delete tasks, sort tasks by priority, mark them as complete or incomplete, and search for specific tasks. The application has been designed with a responsive layout and follows the MVC architecture, making it easy to maintain and update. The code adheres to coding standards and includes detailed documentation and guidelines for contributing, making it an excellent resource for anyone looking to learn or practice web development.
